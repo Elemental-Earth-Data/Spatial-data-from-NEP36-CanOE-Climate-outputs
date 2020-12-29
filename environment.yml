@@ -10,3 +10,4 @@ dependencies:
   - dask
   - gdal
   - rasterio
+  - rioxarray
