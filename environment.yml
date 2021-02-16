@@ -1,13 +1,9 @@
 name: spatial-data
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - jupyterlab
   - xarray
   - netCDF4
   - matplotlib
-  - dask
-  - gdal
-  - rasterio
   - rioxarray
